@@ -30,7 +30,9 @@ C나 C++, Java 같은 고급 언어들의 소스 코드를
 컴파일 결과로 Intermidiate Program ( e. g. **ByteCode** )생성
 JVM 같은 거라고 보면 될듯?
 
+## 일반적인 language-processing system 
 
+sour
 
 
 
@@ -41,5 +43,6 @@ JVM 같은 거라고 보면 될듯?
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzc4NzM4MywtMTQxNjc4MzA3MF19
+eyJoaXN0b3J5IjpbMTc2NzA0NzUzNiwtNDAzNzg3MzgzLC0xND
+E2NzgzMDcwXX0=
 -->
