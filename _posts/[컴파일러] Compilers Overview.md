@@ -42,9 +42,18 @@ Preprocessor -> Compiler -> Assembler -> Linker
 
  Analysis part
  
-
  - Lexical analyzer
  - Syntzx analyzer
+ - Semantic analyzer
+
+Synthesis part
+
+ - Intermidiage code generator
+ - Code optimizer
+ - Code generator
+
+모든 과정에서 Symbol Table이 사용된다. 오토마타랑 파싱할 때 배웠던 그런거인듯
+
 
  
 
@@ -57,6 +66,6 @@ Preprocessor -> Compiler -> Assembler -> Linker
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwMzY1ODYxLDI2ODUxNDE5MCwtMTYzMz
+eyJoaXN0b3J5IjpbNjk3MDgwOTUxLDI2ODUxNDE5MCwtMTYzMz
 E3NzAxNiwtNDAzNzg3MzgzLC0xNDE2NzgzMDcwXX0=
 -->
