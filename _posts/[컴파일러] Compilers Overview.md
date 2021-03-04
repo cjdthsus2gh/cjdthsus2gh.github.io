@@ -58,7 +58,8 @@ Synthesis part
 	A = B + C를 'A', '=', 'B' 처럼 유의미한 최소 단위인 토큰으로 나누어준다.
 2. Syntax analyzer (Parser)
 	토큰들을 각 컴파일러의 사전 규칙에 따라 트리 구조로 만들어준다.
-3. 
+3. Semantic analyzer
+	'Semantic Consistency'를 위해 
  
 
 
@@ -70,6 +71,6 @@ Synthesis part
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0Mzc5MDI5LDI2ODUxNDE5MCwtMTYzMz
-E3NzAxNiwtNDAzNzg3MzgzLC0xNDE2NzgzMDcwXX0=
+eyJoaXN0b3J5IjpbLTE0MTk4MjA2MTksMjY4NTE0MTkwLC0xNj
+MzMTc3MDE2LC00MDM3ODczODMsLTE0MTY3ODMwNzBdfQ==
 -->
