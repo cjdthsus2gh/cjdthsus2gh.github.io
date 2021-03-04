@@ -17,10 +17,13 @@ C나 C++, Java 같은 고급 언어들의 소스 코드를
 
 -또한 컴파일한 결과물이 프로그램이냐, 명령어와 같은 코드냐의 차이
 
-실행시간 - 컴파일러가 유리 **(왜?)
+실행시간 
+	* 컴파일러가 유리 *(왜?)
 안정성 / 유연성
-	*  특정 하드웨어에서만 실행 가능한 target code를 통째로 만들어내는 컴파일러보다 인터프리터가 유리
-
+	  *특정 하드웨어에서만 실행 가능한 target code를 통째로 만들어내는 컴파일러보다 인터프리터가 유리
+디버깅 / 개발
+	*
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0OTA1OTg3LC0xNDE2NzgzMDcwXX0=
+eyJoaXN0b3J5IjpbODM4NTM0ODI0LC0xNDE2NzgzMDcwXX0=
 -->
