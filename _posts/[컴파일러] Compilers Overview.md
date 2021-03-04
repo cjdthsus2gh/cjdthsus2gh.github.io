@@ -35,6 +35,7 @@ JVM 같은 거라고 보면 될듯?
 Preprocessor -> Compiler -> Assembler -> Linker
 *기계어와 Linker의 역할에 대해
 
+좋은 컴파일러란 1. 정확성 2. 성능향상성 3. 
 
 
 
@@ -46,6 +47,6 @@ Preprocessor -> Compiler -> Assembler -> Linker
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4MjM3OTczLC0xNjMzMTc3MDE2LC00MD
-M3ODczODMsLTE0MTY3ODMwNzBdfQ==
+eyJoaXN0b3J5IjpbLTgwMDQ1MTE5MiwtMTYzMzE3NzAxNiwtND
+AzNzg3MzgzLC0xNDE2NzgzMDcwXX0=
 -->
