@@ -25,14 +25,16 @@ C나 C++, Java 같은 고급 언어들의 소스 코드를
 	에러의 원인을 쉽게 찾을 수 있는 인터프리터가 유리
 
 ## + Hyblid Compilers
-컴파일러와 인터프리터의 장점을 합친 새로운 모델
+컴파일러와 인터프리터를 합친 새로운 모델
 
-컴파일 결과로 Intermidiate Program ( e. g. Byte생성
+컴파일 결과로 Intermidiate Program ( e. g. **ByteCode** )생성
+JVM 같은 거라고 보면 될듯?
+
 
  
 
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDkyOTMyNiwtMTQxNjc4MzA3MF19
+eyJoaXN0b3J5IjpbLTE1NTYxOTg3OSwtMTQxNjc4MzA3MF19
 -->
