@@ -5,7 +5,9 @@
 
 ## Language Processors
 
-C나 C++, Java 같은 고급 언어들의 소스 코드를 번역ㅎ
+C나 C++, Java 같은 고급 언어들의 소스 코드를
+Semantically-equivalent target code 로 번역한다. 
+이 Semantically-equivalent란 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTQ3MjczOF19
+eyJoaXN0b3J5IjpbMTkzODEzMTY2Nl19
 -->
