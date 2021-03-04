@@ -32,7 +32,9 @@ JVM 같은 거라고 보면 될듯?
 
 ## 일반적인 language-processing system 
 
-Source Program
+Preprocessor -> Compiler -> Assembler -> Linker
+*기계어와 Linker의 역할에 대해
+
 
 
 
@@ -44,6 +46,6 @@ Source Program
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzMxNzcwMTYsLTQwMzc4NzM4MywtMT
-QxNjc4MzA3MF19
+eyJoaXN0b3J5IjpbNDg4MjM3OTczLC0xNjMzMTc3MDE2LC00MD
+M3ODczODMsLTE0MTY3ODMwNzBdfQ==
 -->
