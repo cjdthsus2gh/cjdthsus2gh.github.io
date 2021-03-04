@@ -32,7 +32,8 @@ JVM 같은 거라고 보면 될듯?
 
 ## 일반적인 language-processing system 
 
-sour
+Source Program
+
 
 
 
@@ -43,6 +44,6 @@ sour
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzA0NzUzNiwtNDAzNzg3MzgzLC0xND
-E2NzgzMDcwXX0=
+eyJoaXN0b3J5IjpbLTE2MzMxNzcwMTYsLTQwMzc4NzM4MywtMT
+QxNjc4MzA3MF19
 -->
