@@ -37,8 +37,16 @@ Preprocessor -> Compiler -> Assembler -> Linker
 
 좋은 컴파일러는 1. 정확성 2. 성능향상성 3. 컴파일 시간 면에서 우수해야 한다.
 
-### 
+### Fortran Language ??
+최근의 컴파일러들은 fortran의 규격을 따르고 있다는데 이게 뭘까
 
+ Analysis part
+ 
+
+ - Lexical analyzer
+ - Syntzx analyzer
+
+ 
 
 
 
@@ -49,6 +57,6 @@ Preprocessor -> Compiler -> Assembler -> Linker
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjkzMTU4OTMsMjY4NTE0MTkwLC0xNj
-MzMTc3MDE2LC00MDM3ODczODMsLTE0MTY3ODMwNzBdfQ==
+eyJoaXN0b3J5IjpbNDIwMzY1ODYxLDI2ODUxNDE5MCwtMTYzMz
+E3NzAxNiwtNDAzNzg3MzgzLC0xNDE2NzgzMDcwXX0=
 -->
