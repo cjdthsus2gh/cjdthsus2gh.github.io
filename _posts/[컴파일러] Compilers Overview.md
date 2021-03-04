@@ -18,9 +18,9 @@ C나 C++, Java 같은 고급 언어들의 소스 코드를
 
 -또한 컴파일한 결과물이 프로그램이냐, 명령어와 같은 코드냐의 차이
 
--
+Runtime performance - 컴파일러가 유리
 
+portability / flexibility - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjY0MDQ3ODEsLTE0MTY3ODMwNzBdfQ
-==
+eyJoaXN0b3J5IjpbMTMwMTkzNjMxNywtMTQxNjc4MzA3MF19
 -->
