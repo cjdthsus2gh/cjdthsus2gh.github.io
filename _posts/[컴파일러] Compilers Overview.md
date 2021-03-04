@@ -59,7 +59,12 @@ Synthesis part
 2. Syntax analyzer (Parser)
 	토큰들을 각 컴파일러의 사전 규칙에 따라 트리 구조로 만들어준다.
 3. Semantic analyzer
-	'Semantic Consistency'를 위해 
+	'Semantic Consistency'를 위해 자료형을 체크하거나 뭘 하거나 해준다...구체적으론 잘 모르겠음.
+
+이 Analyze Part의 작업 결과로 Syntax Tree가 만들어진다. 이 트리는..
+
+4. Intermidiate Code Generator
+	three-address code 
  
 
 
@@ -71,6 +76,6 @@ Synthesis part
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTk4MjA2MTksMjY4NTE0MTkwLC0xNj
-MzMTc3MDE2LC00MDM3ODczODMsLTE0MTY3ODMwNzBdfQ==
+eyJoaXN0b3J5IjpbMTQxNDg4OTA3OCwyNjg1MTQxOTAsLTE2Mz
+MxNzcwMTYsLTQwMzc4NzM4MywtMTQxNjc4MzA3MF19
 -->
