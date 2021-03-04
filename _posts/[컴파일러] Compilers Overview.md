@@ -14,9 +14,10 @@ C나 C++, Java 같은 고급 언어들의 소스 코드를
 ## Compilation  /  Interpretation
 
  
+-프로그램을 실행하기 전에 컴파일을 하느냐, 한줄 한줄 내려가면서 실시간으로 하느냐의 차이
 
- - [ ] List item
+-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyMjI1NjM4XX0=
+eyJoaXN0b3J5IjpbMTI3MjA0NjA3MV19
 -->
