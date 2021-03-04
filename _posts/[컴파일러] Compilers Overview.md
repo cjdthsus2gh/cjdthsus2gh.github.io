@@ -37,7 +37,7 @@ Preprocessor -> Compiler -> Assembler -> Linker
 
 좋은 컴파일러는 1. 정확성 2. 성능향상성 3. 컴파일 시간 면에서 우수해야 한다.
 
-
+### 
 
 
 
@@ -49,6 +49,6 @@ Preprocessor -> Compiler -> Assembler -> Linker
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4NTE0MTkwLC0xNjMzMTc3MDE2LC00MD
-M3ODczODMsLTE0MTY3ODMwNzBdfQ==
+eyJoaXN0b3J5IjpbLTEwMjkzMTU4OTMsMjY4NTE0MTkwLC0xNj
+MzMTc3MDE2LC00MDM3ODczODMsLTE0MTY3ODMwNzBdfQ==
 -->
