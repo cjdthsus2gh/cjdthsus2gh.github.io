@@ -8,8 +8,7 @@
 C나 C++, Java 같은 고급 언어들의 소스 코드를
 **Semantically-equivalent** 한 target code 로 번역한다. 
 컴퓨터과학에선 서로 다른 두 언어의 이 Semantically-equivalence 의미상의로 동등
-
-2. 에러 / 버그 감지
+에러 / 버그 감지
 
 ## Compilation  /  Interpretation
 
@@ -18,9 +17,10 @@ C나 C++, Java 같은 고급 언어들의 소스 코드를
 
 -또한 컴파일한 결과물이 프로그램이냐, 명령어와 같은 코드냐의 차이
 
-Runtime performance - 컴파일러가 유리
+실행시간 - 컴파일러가 유리 **(왜?)
+안정성 / 유연성 - 인터프리터가 유리
+	* 
 
-portability / flexibility - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTkzNjMxNywtMTQxNjc4MzA3MF19
+eyJoaXN0b3J5IjpbMTQxNzUxODY5NywtMTQxNjc4MzA3MF19
 -->
