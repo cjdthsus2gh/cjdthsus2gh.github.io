@@ -19,16 +19,21 @@ C나 C++, Java 같은 고급 언어들의 소스 코드를
 
 -실행시간 
 	컴파일러가 유리 (왜?)
--안정성 / 유연성
+-안정성 / 이식성
 	특정 하드웨어에서만 실행 가능한 target code를 통째로 만들어내는 컴파일러보다 인터프리터가 유리
 -디버깅 / 개발
 	에러의 원인을 쉽게 찾을 수 있는 인터프리터가 유리
 
 ## + Hyblid Compilers
-컴파일러와 인터프리터를 합친 새로운 모델
+컴파일러와 인터프리터를 합친 새로운 모델. 빠른 실행시간 & 높은 이식성을 갖고 있음.
 
 컴파일 결과로 Intermidiate Program ( e. g. **ByteCode** )생성
 JVM 같은 거라고 보면 될듯?
+
+
+
+
+
 
 
  
@@ -36,5 +41,5 @@ JVM 같은 거라고 보면 될듯?
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTYxOTg3OSwtMTQxNjc4MzA3MF19
+eyJoaXN0b3J5IjpbLTQwMzc4NzM4MywtMTQxNjc4MzA3MF19
 -->
