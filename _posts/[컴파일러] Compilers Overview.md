@@ -11,7 +11,12 @@ C나 C++, Java 같은 고급 언어들의 소스 코드를
 
 2. 에러 / 버그 감지
 
-## Compil
+## Compilation  /  Interpretation
+
+ 
+
+ - [ ] List item
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0ODEyMzg4XX0=
+eyJoaXN0b3J5IjpbOTcyMjI1NjM4XX0=
 -->
