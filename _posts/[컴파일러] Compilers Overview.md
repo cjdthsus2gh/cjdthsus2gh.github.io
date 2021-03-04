@@ -54,7 +54,9 @@ Synthesis part
 
 모든 과정에서 Symbol Table이 사용된다. 오토마타랑 파싱할 때 배웠던 그런거인듯
 
-
+1. Lexical analyzer
+	A = B + C를 'A', '=', 'B' 처럼 유의미한 최소 단위인 토큰으로 나눠줌.
+	
  
 
 
@@ -66,6 +68,6 @@ Synthesis part
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk3MDgwOTUxLDI2ODUxNDE5MCwtMTYzMz
-E3NzAxNiwtNDAzNzg3MzgzLC0xNDE2NzgzMDcwXX0=
+eyJoaXN0b3J5IjpbLTE5NTE1NjU5MTYsMjY4NTE0MTkwLC0xNj
+MzMTc3MDE2LC00MDM3ODczODMsLTE0MTY3ODMwNzBdfQ==
 -->
