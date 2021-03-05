@@ -1,9 +1,7 @@
 
 
 
-# 운영체제
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4NDgzOTM2XX0=
+eyJoaXN0b3J5IjpbMjA0MDI5NzYyMl19
 -->
